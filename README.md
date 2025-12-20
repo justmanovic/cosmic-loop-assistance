@@ -32,7 +32,7 @@ A: Please open an issue on this repository or contact us via email below.
 
 For support, feedback, or questions:
 
-📧 **Email**: [your.email@example.com](mailto:jojo.justman+cosmicloop@gmail.com)
+📧 **Email**: [jojo.justman@gmail.com](mailto:jojo.justman+cosmicloop@gmail.com)
 
 ## Privacy 
 
